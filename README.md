@@ -11,5 +11,3 @@ A menu showcasing various coffee drinks and their details.
 
 
 A shopping cart to add and manage orders. <br>
-
-# coffemasters
